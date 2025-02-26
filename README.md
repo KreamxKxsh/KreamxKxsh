@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LaToya @KreamxKxsh
 - 👀 I’m interested in Anime, investing, tech, working out.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on leanring coding and creating
+- 💞️ I’m looking to collaborate on learning coding and creating
 - 😄 Pronouns: She/They
 
 <!---
